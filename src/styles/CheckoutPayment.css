@@ -1,4 +1,3 @@
-/* CheckoutPayment Styles */
 .checkout-payment {
   min-height: 100vh;
   background: linear-gradient(to right, white 50%,  #f0f0f0 50%);
@@ -84,7 +83,7 @@
 
 .checkout-payment .order-summary {
   padding-left: 30px;
-  max-height: 500px; /* Adjust as needed based on your layout */
+  max-height: 500px; 
   overflow-y: auto;
 }
 .checkout-payment .form-input:focus {
@@ -144,7 +143,7 @@
 }
 
 .input-with-icon input.form-input {
-  padding-right: 28px; /* room for the icon */
+  padding-right: 28px; 
 }
 
 .input-with-icon .info-icon {
@@ -217,7 +216,6 @@
   margin-top: 16px;
 }
 
-/* Responsive Design */
 @media (max-width: 1024px) {
   .checkout-payment .two-column {
     grid-template-columns: 1fr;

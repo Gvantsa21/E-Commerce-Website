@@ -338,7 +338,6 @@
   margin-bottom: 24px;
 }
 
-/* Form Styles */
 .form-section {
   margin-bottom: 24px;
 }
@@ -374,7 +373,6 @@
   font-size: 14px;
 }
 
-/* Shipping Styles */
 .shipping-method {
   padding: 16px;
   margin-bottom: 16px;
@@ -411,7 +409,6 @@
   font-weight: 500;
 }
 
-/* Payment Styles */
 .payment-method-badge {
   background-color: #dcfce7;
   padding: 16px;
@@ -471,7 +468,6 @@
   background: #d1d5db;
 }
 
-/* Order Summary */
 .order-summary {
   padding: 24px;
   padding-left: 50px;
@@ -550,7 +546,6 @@
   margin-top: 16px;
 }
 
-/* Confirmation Styles */
 .confirmation-content {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -594,7 +589,6 @@
   margin-bottom: 32px;
 }
 
-/* Responsive Design */
 @media (max-width: 1024px) {
   .two-column {
     grid-template-columns: 1fr;
